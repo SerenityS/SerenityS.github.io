@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Spoqa Han Sans';
+    font-weight: 300;
+    font-display: swap;
+    src: local('Spoqa Han Sans Light'),
+    url('../Subset/SpoqaHanSans/SpoqaHanSansLight.woff2') format('woff2'),
+    url('../Subset/SpoqaHanSans/SpoqaHanSansLight.woff') format('woff'),
+    url('../Subset/SpoqaHanSans/SpoqaHanSansLight.ttf') format('truetype');
+}
